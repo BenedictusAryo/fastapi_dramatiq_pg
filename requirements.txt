@@ -1,0 +1,7 @@
+fastapi==0.100.0
+dramatiq==1.14.2
+dramatiq-pg==0.11.0
+uvicorn==0.23.1
+psycopg2-binary==2.9.6
+pydantic-settings==2.0.2
+
